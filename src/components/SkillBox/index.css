@@ -1,0 +1,11 @@
+.skill-box {
+  display: flex;
+  flex-direction: row;
+}
+.skill-para {
+  margin-left: 10px;
+}
+.skill-image {
+  height: 50px;
+  width: 50px;
+}

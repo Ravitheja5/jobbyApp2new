@@ -1,0 +1,31 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #2c364c;
+  height: 60px;
+}
+.box {
+  display: flex;
+}
+.para {
+  margin-right: 10px;
+  color: white;
+}
+
+.logout-button {
+  text-align: center;
+  padding: 10px;
+  color: white;
+  background-color: #4f46e5;
+  border: 0px;
+  width: 150px;
+  border-radius: 10px;
+}
+.website-logo {
+  width: 200px;
+  height: 40px;
+
+  margin-top: 10px;
+}

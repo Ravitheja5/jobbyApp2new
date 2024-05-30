@@ -1,0 +1,67 @@
+.jobs-bg-container {
+  width: 100vw;
+  background-color: #000000;
+}
+.jobs-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.heading-types-of-bobs {
+  color: white;
+}
+.nojob-container {
+  color: white;
+}
+.nojob-image{
+  height: 200px;
+  width: 200px;
+}
+.input-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  height: 40px;
+}
+.input {
+  border: 0px;
+  outline: none;
+}
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  padding-left: 30px;
+}
+.profile-box {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+
+  color: white;
+  background-size: cover;
+  justify-content: center;
+}
+hr {
+  width: 100%;
+}
+.employement-type-box {
+  display: flex;
+  flex-direction: row;
+}
+label {
+  color: white;
+}
+.profile-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+}
+.fail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
